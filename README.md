@@ -1,9 +1,8 @@
 <p align="center" ><img  src ="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gifraw=true" width = 100px></p>
 
 <h1 align="center">Hey Everyone 👋, I'm Chamindu Munasinghe</h1>
-<h3 align="center">A passionate Computer Engineering Student from Sri Lanka</h3>
 <h3 align="center">Passionate Computer Engineering Student | University of Ruhuna</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat" alt="chamindu77" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fdark-blue-technology-high-tech-abstract-banner-background_6895466.htm&psig=AOvVaw3szYbA9lR0kP5mfxPakNtb&ust=1709861197491000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCbsbz_4IQDFQAAAAAdAAAAABAR)" alt="chamindu77" /> </p>
 
 
 <table align="center">
