@@ -5,6 +5,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat" alt="chamindu77" /> </p>
 
 
+---
+
+---
 
 
 <table align="center">
@@ -29,9 +32,6 @@
   </td>
 </tr>
 </table>
-
-
----
 
 
 ---
