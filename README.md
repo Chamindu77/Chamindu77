@@ -7,12 +7,10 @@
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
----
-
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="75%" align="left">
 <h2> About Me </h2>
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
@@ -20,15 +18,12 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 Engineering**, University of Ruhuna
 - 🧑‍🎓 Studies at **Faculty of Engineering -
 University of Ruhuna**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Chamindu77](https://github.com/Chamindu77)
-
 - 📫 How to reach me **chamindunipun99@gmail.com**
-
 </td>
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
   
   </td>
@@ -37,6 +32,7 @@ University of Ruhuna**
 
 
 ---
+## 🛠️ My Skills
 
 <h2 align="center">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <p align="center">
