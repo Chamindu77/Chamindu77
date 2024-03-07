@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Chamindu Munasinghe</h1>
 <h3 align="center">Passionate Computer Engineering Student | University of Ruhuna</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="chamindu77" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat" alt="chamindu77" /> </p>
 
 
 
