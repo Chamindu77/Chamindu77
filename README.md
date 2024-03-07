@@ -53,7 +53,7 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>
-    <a href= https://github.com/Chamindu77?tab=repositories&q=&type=&language=csharp&sort=>
+    <a href= https://github.com/Chamindu77 ?tab=repositories &q= & type=& language=csharp&sort= >
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -92,7 +92,7 @@
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <a href="https://github.com/Chamindu77?tab=repositories&q=&type=&language=mongodb&sort=">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -132,8 +132,6 @@
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     </a>
   </p>
-
-
 
 ---
 
