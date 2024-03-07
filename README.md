@@ -1,11 +1,11 @@
 <p align="center" ><img  src ="[https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fdark-blue-technology-high-tech-abstract-banner-background_6895466.htm&psig=AOvVaw3szYbA9lR0kP5mfxPakNtb&ust=1709861197491000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCbsbz_4IQDFQAAAAAdAAAAABAR)" width = 100px></p>
 
-<h1 align="center">Hey Everyone 👋, I'm Chamindu Munasinghe</h1>
-<h3 align="center">Passionate Computer Engineering Student | University of Ruhuna</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat" alt="chamindu77" /> </p>
+<h1 align="center">Hey Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chamindu Munasinghe</h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+the+time+to+view+my+GitHub+Profile...&center=true&width=680&height=45">
+</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat" alt="chamindu77" /> </p>
 
-
----
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ---
 
@@ -16,8 +16,10 @@
 <h2> About Me </h2>
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
-
-- 🧑‍🎓 I’m an Undergraduate at **University of Ruhuna**
+- 💻 Studies at **Department of Computer
+Engineering**, University of Ruhuna
+- 🧑‍🎓 Studies at **Faculty of Engineering -
+University of Ruhuna**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chamindu77](https://github.com/Chamindu77)
 
