@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://chamindu77.io)
 
 <p align="center" ><img  src ="[https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fdark-blue-technology-high-tech-abstract-banner-background_6895466.htm&psig=AOvVaw3szYbA9lR0kP5mfxPakNtb&ust=1709861197491000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCbsbz_4IQDFQAAAAAdAAAAABAR)" width = 100px></p>
 
