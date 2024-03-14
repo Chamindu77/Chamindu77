@@ -1,5 +1,4 @@
-<a href = "[https://www.canva.com/design/DAF_dnShwEE/s2aeY1IVIhCakuwdT1pUBw/edit?utm_content=DAF_dnShwEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://drive.google.com/file/d/1NWv6VybpRDODoedQLJoyjChQX3agn1F8/view?usp=drive_link)"></a>
-
+![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (1)](https://github.com/Chamindu77/Chamindu77/assets/117502200/1eb95ea6-9ce9-42d5-b4d6-5e51e61c3793)
 <h1 align="center">Hey Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chamindu Munasinghe</h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+the+time+to+view+my+GitHub+Profile...&center=true&width=680&height=45">
 
