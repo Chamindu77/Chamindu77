@@ -1,7 +1,12 @@
-![Black Modern Personal LinkedIn Banner (3)](https://github.com/Chamindu77/Chamindu77/assets/117502200/5e56056c-6954-4899-a794-f487f480d1c2)
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+the+time+to+view+my+GitHub+Profile...&center=true&width=680&height=45">
 
-</h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat" alt="chamindu77" /> </p>
+<h1 align="center">Hey Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chamindu Munasinghe</h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+the+time+to+view+my+GitHub+Profile...&center=true&width=680&height=45">
+
+
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat" alt="chamindu77" /> </p>
 
 <table align="center">
 <tr border="none">
