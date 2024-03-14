@@ -1,9 +1,7 @@
 ![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (1)](https://github.com/Chamindu77/Chamindu77/assets/117502200/1eb95ea6-9ce9-42d5-b4d6-5e51e61c3793)
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+the+time+to+view+my+GitHub+Profile...&center=true&width=680&height=45">
-
-
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+the+time+to+view+my+GitHub+Profile...&center=true&width=680&height=45">
 
 </h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat" alt="chamindu77" /> </p>
 
