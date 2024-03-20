@@ -167,7 +167,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
      </a>
      <a href="https://github.com/Chamindu77?tab=repositories&q=&type=&language=VisualStudioCode&sort=" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
-    
      </a>
      
 ---
