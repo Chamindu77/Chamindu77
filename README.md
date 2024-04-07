@@ -1,3 +1,4 @@
+![Black Modern Personal LinkedIn Banner (3)](https://github.com/Chamindu77/Chamindu77/assets/117502200/f43ce13d-cbd5-4070-921f-dbdfe921dee2)
 
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chamindu Munasinghe </h1>
 
