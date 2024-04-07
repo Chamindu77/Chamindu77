@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   
 - 🌱 I’m currently learning Artificial Intelligence (AI)
 - 💻 Studies at University of Ruhuna
-- 📌linkedin - https://www.linkedin.com/in/chamindu-nipun
+- 📌 linkedin - https://www.linkedin.com/in/chamindu-nipun
 - 👨‍💻 GitHub - [https://github.com/Chamindu77](https://github.com/Chamindu77)
 - 🌐 Portfolio - https://chamindu.netlify.app
 </td>
