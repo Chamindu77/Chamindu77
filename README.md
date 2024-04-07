@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <table align="center">
 <tr border="none">
-<td width="63%" hegth="40%" align="left">
+<td width="67%" hegth="40%" align="left">
 <h3 align="center"> About Me </h3>
 
 
