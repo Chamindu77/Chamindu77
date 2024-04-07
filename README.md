@@ -1,4 +1,7 @@
-![Black Modern Personal LinkedIn Banner (3)](https://github.com/Chamindu77/Chamindu77/assets/117502200/f43ce13d-cbd5-4070-921f-dbdfe921dee2)
+
+![Uploading Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (1).png…]()
+
+
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+the+time+to+view+my+GitHub+Profile...&center=true&width=700&height=45">
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
