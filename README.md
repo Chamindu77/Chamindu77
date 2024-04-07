@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chamindu Munasinghe </h1>
+<h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chamindu Munasinghe </h1>
 
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+the+time+to+view+my+GitHub+Profile...&center=true&width=700&height=45">
 
@@ -18,8 +18,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
 - 💻 Studies at **Department of Computer
 Engineering**, University of Ruhuna
+- 📌Connect with me on https://www.linkedin.com/in/chamindu-nipun
 - 👨‍💻 All of my projects are available at [https://github.com/Chamindu77](https://github.com/Chamindu77)
-- 📫 How to reach me **chamindunipun99@gmail.com**
+- 🌐 Check my portfolio https://chamindu.netlify.app
+- 📩 How to reach me **chamindunipun99@gmail.com**
 </td>
 <td width="35%" align="center">
 
