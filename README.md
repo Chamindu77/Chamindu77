@@ -1,7 +1,5 @@
+![Black Modern Personal LinkedIn Banner (3)](https://github.com/Chamindu77/Chamindu77/assets/117502200/18e0919a-abd8-4557-8254-383962b50557)
 
-![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (1)](https://github.com/Chamindu77/Chamindu77/assets/117502200/c0bafd16-1c4f-4174-8f77-4762b5fc2ba6)
-
-ign="center"> <img src="https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat" alt="chamindu77" /> </p>
 
 <table align="center">
 <tr border="none">
