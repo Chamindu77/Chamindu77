@@ -15,17 +15,14 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <table align="center">
 <tr border="none">
-<td width="80%" hegth="100%" align="left">
+<td width="78%" hegth="100%" align="left">
 <h3 align="center"> About Me </h3>
-
-
 - 🌱 I’m currently learning Artificial Intelligence (AI)
 - 💻 Studies at Department of Computer
 Engineering, University of Ruhuna
 - 📌Connect with me on https://www.linkedin.com/in/chamindu-nipun
 - 👨‍💻 All of my projects are available at [https://github.com/Chamindu77](https://github.com/Chamindu77)
 - 🌐 Check my portfolio https://chamindu.netlify.app
-- 📩 How to reach me chamindunipun99@gmail.com
 </td>
 <td width="50%" hegth="100%" align="left">
 
