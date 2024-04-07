@@ -1,5 +1,12 @@
 ![Black Modern Personal LinkedIn Banner (3)](https://github.com/Chamindu77/Chamindu77/assets/117502200/18e0919a-abd8-4557-8254-383962b50557)
 
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+taking+the+time+to+view+my+GitHub+Profile...&center=true&width=700&height=45">
+
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
+
 
 <table align="center">
 <tr border="none">
