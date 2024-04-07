@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <table align="center">
 <tr border="none">
-<td width="63%" align="left">
+<td width="63%" hegth="40%" align="left">
 <h3 align="center"> About Me </h3>
 
 
@@ -23,7 +23,7 @@ Engineering**, University of Ruhuna
 - 🌐 Check my portfolio https://chamindu.netlify.app
 - 📩 How to reach me **chamindunipun99@gmail.com**
 </td>
-<td width="37%" align="center">
+<td width="37%" hegth="30%" align="left">
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
