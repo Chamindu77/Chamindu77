@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-<div align="left">
+<div align="central">
  
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="13" />
@@ -157,7 +157,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <img width="13" />
 <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"  height="40" alt="nodejs logo"  />
   <img width="13" />
-
+</div>
 
  
 
