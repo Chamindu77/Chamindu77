@@ -53,89 +53,89 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="13" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
+  <img width="13" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="13" />
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
- <img width="12" />
+ <img width="13" />
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-<img width="12" />
- <img src="https://cdn.simpleicons.org/kaggle" height="40" alt="kaggle logo"  />
-  <img width="12" />
- <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
+<img width="13" />
+<img src="https://cdn.simpleicons.org/kaggle" height="40" alt="kaggle logo"  />
+<img width="13" />
+<img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-	<img width="12" />
+<img width="13" />
 <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-	<img width="12" />
+<img width="13" />
 <img src="https://cdn.simpleicons.org/canva" height="40" alt="canva logo"  />
-	<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="material ui logo"  />
-  <img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn logo"  />
-<img width="12" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
+<img width="13" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="typescript logo"  />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" height="40" alt="android logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
