@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 <div align="left">
-  <img width="13" />
+  <img width="6" />
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="13" />
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
