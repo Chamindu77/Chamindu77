@@ -52,38 +52,22 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="17" />
+<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="17" />
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-<img width="17" />
 <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
- <img width="17" />
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-<img width="17" />
 <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
-<img width="17" />
 <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-<img width="17" />
 <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-<img width="17" />
 <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
-<img width="17" />
 <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-<img width="13" />
 <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-<img width="13" />
 <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-<img width="13" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-<img width="13" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 <img width="13" />
 <img src="https://cdn.simpleicons.org/kaggle" height="40" alt="kaggle logo"  />
