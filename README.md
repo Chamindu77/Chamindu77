@@ -52,6 +52,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 <div align="left">
+  <img width="13" />
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="13" />
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -137,25 +138,25 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 <img width="13" />
 <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="40" alt="nodejs logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" height="40" alt="nodejs logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="40" alt="nodejs logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png"  height="40" alt="nodejs logo"  />
-<img width="12" />
+<img width="13" />
 <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"  height="40" alt="nodejs logo"  />
-<img width="12" />
+<img width="13" />
 
 
  
