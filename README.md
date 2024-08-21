@@ -174,27 +174,23 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
-<h3 align="center">🚀 My GitHub Statistics</h3>
+<h3 align="center"> 🚀 My Statistics </h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chamindu77&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chamindu77&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-<div align="center" style="background-color: #0d253f; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.5);">
-  <table align="center" style="width: 90%; margin: 0 auto;">
-    <tr>
-      <td width="50%" align="center" style="padding: 10px;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=chamindu77&theme=dark&show_icons=true&count_private=true&border_radius=15&bg_color=0d253f&title_color=ffffff&text_color=ffffff&icon_color=2aa198" alt="GitHub Stats" />
-        <br><br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamindu77&theme=dark&hide_border=true&border_radius=15&background=0d253f&stroke=ffffff&ring=2aa198&fire=2aa198&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Mark streak" />
-      </td>
-      <td width="50%" align="center" style="padding: 10px;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindu77&theme=dark&hide_border=true&layout=compact&border_radius=15&bg_color=0d253f&title_color=ffffff&text_color=ffffff&langs_count=10&hide=HTML,PureBasic,CSS" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
- 
-</div>
-</div>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chamindu77&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8"/>
+  
+  </td>
+</tr>
+</table>
 
 
 
