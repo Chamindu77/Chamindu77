@@ -15,7 +15,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamindu77&label=Profile%20views&color=0e75b6&style=flat" alt="chamindu" /> </p>
 
 
-
 <table align="center">
 <tr border="none">
 <td  hegth="100%" align="left">
