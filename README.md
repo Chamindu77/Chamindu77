@@ -172,36 +172,24 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
+
+  <!-- GitHub Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chamindu77&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img title="🔥 GitHub Streak" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=chamindu77&theme=dark&hide_border=false" />
+
+  <!-- Total Contributions -->
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamindu77&theme=dark" alt="GitHub Contributions Summary" />
 
 </td>
 <td width="50%" align="center">
 
+  <!-- Top Languages -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindu77&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=Jupyter%20Notebook,PureBasic,Ruby,PHP,Go,Shell,Rust,Kotlin,Swift,Perl,Scala,Elixir,Haskell,PowerShell" alt="Top Languages" />
-  
+
 </td>
 </tr>
 </table>
 
- 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chamindu77&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chamindu77&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chamindu77&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=Jupyter%20Notebook,PureBasic,Ruby,PHP,Go,Shell,Rust,Kotlin,Swift,Perl,Scala,Elixir,Haskell,PowerShell"/>
-  
-  </td>
-</tr>
-</table>
 
 
 
