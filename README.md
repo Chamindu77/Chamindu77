@@ -177,21 +177,26 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chamindu77&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
   <br><br>
 
-  <!-- Total Contributions -->
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamindu77&theme=dark" alt="GitHub Contributions Summary" />
+   <!-- Repo Summary -->
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chamindu77&theme=dark" alt="Repos Per Language" />
+
+
 
 </td>
 <td width="50%" align="center">
 
   <!-- Top Languages -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindu77&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=Jupyter%20Notebook,PureBasic,Ruby,PHP,Go,Shell,Rust,Kotlin,Swift,Perl,Scala,Elixir,Haskell,PowerShell" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindu77&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5&hide=Jupyter%20Notebook,PureBasic,Ruby,PHP,Go,Shell,Rust,Kotlin,Swift,Perl,Scala,Elixir,Haskell,PowerShell" alt="Top Languages" />
+  <br><br>
+    <!-- Contributions Summary -->
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamindu77&theme=dark" alt="GitHub Contributions Summary" />
+  
+ 
+ 
 
 </td>
 </tr>
 </table>
-
-
-
 
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
