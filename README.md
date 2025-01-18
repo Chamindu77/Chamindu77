@@ -186,7 +186,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <td width="50%" align="center">
 
   <!-- Top Languages -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindu77&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5&hide=Jupyter%20Notebook,PureBasic,Ruby,PHP,Go,Shell,Rust,Kotlin,Swift,Perl,Scala,Elixir,Haskell,PowerShell" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindu77&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5&hide=Jupyter%20Notebook,CSS,HTML,PureBasic,Ruby,PHP,Go,Shell,Rust,Kotlin,Swift,Perl,Scala,Elixir,Haskell,PowerShell" alt="Top Languages" />
   <br><br>
     <!-- Contributions Summary -->
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamindu77&theme=dark" alt="GitHub Contributions Summary" />
