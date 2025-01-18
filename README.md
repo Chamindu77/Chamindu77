@@ -175,7 +175,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chamindu77&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chamindu77&theme=dark&hide_border=false" /> 
+  <img title="🔥 GitHub Streak" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=chamindu77&theme=dark&hide_border=false" />
 
 </td>
 <td width="50%" align="center">
