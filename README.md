@@ -17,7 +17,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <td  hegth="100%" align="left">
 <h3 align="center"> About Me </h3>
   
-- 🏬 I’m currently working at Boffo System Labs.
 - 💻 Studies at University of Ruhuna
 - 📌 linkedin - https://www.linkedin.com/in/chamindu-nipun
 - 👨‍💻 GitHub - [https://github.com/Chamindu77](https://github.com/Chamindu77)
